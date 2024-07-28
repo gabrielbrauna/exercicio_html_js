@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+h1 {
+    margin-bottom: 8px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.sucess {
+    color: green;
+    font-size: 26x;
+    padding: 1px;
+    margin-top: 8px;
+    display: none;
+}
+
+.error {
+    color: red;
+    padding: 1px;
+    margin-top: 8px;
+    display: none;
+}
